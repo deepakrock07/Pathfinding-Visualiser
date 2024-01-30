@@ -1,7 +1,6 @@
 # Pathfinding-Visualiser-Project
 
-This is a Project which will visualize different PathFinding Algorithms. This project is available on https://karan-gandhi.github.io/Pathfinding-Visualiser-Project/
-
+This is a Project which will visualize different PathFinding Algorithms. 
 ## Meet the various algorithms
 ### Pathfinding Algorithms
 #### Astar
